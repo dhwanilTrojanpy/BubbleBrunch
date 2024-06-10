@@ -1,0 +1,12 @@
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\bin\Debug\net6.0\BubbleBrunch.Contracts.deps.json
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\bin\Debug\net6.0\BubbleBrunch.Contracts.dll
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\bin\Debug\net6.0\BubbleBrunch.Contracts.pdb
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\obj\Debug\net6.0\BubbleBrunch.Contracts.csproj.AssemblyReference.cache
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\obj\Debug\net6.0\BubbleBrunch.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\obj\Debug\net6.0\BubbleBrunch.Contracts.AssemblyInfoInputs.cache
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\obj\Debug\net6.0\BubbleBrunch.Contracts.AssemblyInfo.cs
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\obj\Debug\net6.0\BubbleBrunch.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\obj\Debug\net6.0\BubbleBrunch.Contracts.dll
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\obj\Debug\net6.0\refint\BubbleBrunch.Contracts.dll
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\obj\Debug\net6.0\BubbleBrunch.Contracts.pdb
+C:\Users\Leader Frames\Desktop\project\BubbleBrunch\BubbleBrunch.Contracts\obj\Debug\net6.0\ref\BubbleBrunch.Contracts.dll

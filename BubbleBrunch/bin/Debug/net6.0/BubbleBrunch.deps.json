@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BubbleBrunch/1.0.0": {
+        "dependencies": {
+          "BubbleBrunch.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "BubbleBrunch.dll": {}
+        }
+      },
+      "BubbleBrunch.Contracts/1.0.0": {
+        "runtime": {
+          "BubbleBrunch.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BubbleBrunch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BubbleBrunch.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
